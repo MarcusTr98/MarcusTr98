@@ -1,19 +1,19 @@
-👋 Hi, I’m @MarcusTr98\\
-✨ I'm from Vietnamese
-👀 I’m interested in programming, cycling, and fishing\\
-🌱 I’m currently learning application development programming ( C, Java, SQL, HTML-CSS, Javascript...)
-💞️ I'm looking to collaborate on: \\
-*Projects with people who share my passion for coding, cycling, and fish
-*Mobile app and web development projects
-*Sharing knowledge and experience about cycling and fish\\
-📫 How to reach me: 
-*Email: echtay1102@gmail.com
-*Facebook: https://www.facebook.com/Mr.Bear2202/
-*Github: https://github.com/MarcusTr98
-*Thread: https://www.threads.net/@Marcus_tr22
-*Instagram: https://www.instagram.com/Marcus_tr22
-😄 Pronouns: He/him.
-⚡ Fun fact: I can read Conan stories all day long without getting bored. :))))
+👋 Hi, I’m @MarcusTr98  
+✨ I'm from Vietnamese  
+👀 I’m interested in programming, cycling, and fishing  
+🌱 I’m currently learning application development programming ( C, Java, SQL, HTML-CSS, Javascript...)  
+💞️ I'm looking to collaborate on:  
+*Projects with people who share my passion for coding, cycling, and fish  
+*Mobile app and web development projects  
+*Sharing knowledge and experience about cycling and fish  
+📫 How to reach me:  
+*Email: echtay1102@gmail.com  
+*Facebook: https://www.facebook.com/Mr.Bear2202/  
+*Github: https://github.com/MarcusTr98  
+*Thread: https://www.threads.net/@Marcus_tr22  
+*Instagram: https://www.instagram.com/Marcus_tr22  
+😄 Pronouns: He/him.  
+⚡ Fun fact: I can read Conan stories all day long without getting bored. :))))  
 
 
 
