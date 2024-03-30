@@ -1,5 +1,5 @@
 👋 Hi, I’m @MarcusTr98  
-✨ I'm from Vietnamese  
+✨ I'm from Vietnam
 👀 I’m interested in programming, cycling, and fishing  
 🌱 I’m currently learning application development programming ( C, Java, SQL, HTML-CSS, Javascript...)  
 💞️ I'm looking to collaborate on:  
